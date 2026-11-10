@@ -3,15 +3,9 @@
     "en": "FWS81 Wireless water sensor"
   },
   "class": "sensor",
-  "capabilities": [
-    "alarm_water"
-  ],
-  "platforms": [
-    "local"
-  ],
-  "connectivity": [
-    "matter"
-  ],
+  "capabilities": ["alarm_water"],
+  "platforms": ["local"],
+  "connectivity": ["matter"],
   "images": {
     "small": "{{driverAssetsPath}}/images/small.png",
     "large": "{{driverAssetsPath}}/images/large.png",
@@ -21,11 +15,6 @@
     "deviceVendorId": 4932,
     "deviceProductName": "ELTAKO-FWS81",
     "vendorId": 4932,
-    "productId": [
-      1009,
-      1010,
-      1054,
-      1104
-    ]
+    "productId": [1009, 1010, 1054, 1104]
   }
 }

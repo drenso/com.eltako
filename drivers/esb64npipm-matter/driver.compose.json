@@ -3,17 +3,9 @@
     "en": "ESB64NP-IPM Shading actuator"
   },
   "class": "windowcoverings",
-  "capabilities": [
-    "windowcoverings_closed",
-    "windowcoverings_set",
-    "windowcoverings_state"
-  ],
-  "platforms": [
-    "local"
-  ],
-  "connectivity": [
-    "matter"
-  ],
+  "capabilities": ["windowcoverings_closed", "windowcoverings_set", "windowcoverings_state"],
+  "platforms": ["local"],
+  "connectivity": ["matter"],
   "images": {
     "small": "{{driverAssetsPath}}/images/small.png",
     "large": "{{driverAssetsPath}}/images/large.png",

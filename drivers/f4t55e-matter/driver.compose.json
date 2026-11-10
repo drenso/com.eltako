@@ -4,12 +4,8 @@
   },
   "class": "button",
   "capabilities": [],
-  "platforms": [
-    "local"
-  ],
-  "connectivity": [
-    "matter"
-  ],
+  "platforms": ["local"],
+  "connectivity": ["matter"],
   "images": {
     "small": "{{driverAssetsPath}}/images/small.png",
     "large": "{{driverAssetsPath}}/images/large.png",
@@ -19,11 +15,6 @@
     "deviceVendorId": 4932,
     "deviceProductName": "EnOcean-F6-02-01",
     "vendorId": 4932,
-    "productId": [
-      1009,
-      1010,
-      1054,
-      1104
-    ]
+    "productId": [1009, 1010, 1054, 1104]
   }
 }

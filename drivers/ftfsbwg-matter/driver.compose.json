@@ -3,16 +3,9 @@
     "en": "FTFSB Wireless temperature+humidity sensor"
   },
   "class": "sensor",
-  "capabilities": [
-    "measure_humidity",
-    "measure_temperature"
-  ],
-  "platforms": [
-    "local"
-  ],
-  "connectivity": [
-    "matter"
-  ],
+  "capabilities": ["measure_humidity", "measure_temperature"],
+  "platforms": ["local"],
+  "connectivity": ["matter"],
   "images": {
     "small": "{{driverAssetsPath}}/images/small.png",
     "large": "{{driverAssetsPath}}/images/large.png",
@@ -22,11 +15,6 @@
     "deviceVendorId": 4932,
     "deviceProductName": "ELTAKO-FTFSB",
     "vendorId": 4932,
-    "productId": [
-      1009,
-      1010,
-      1054,
-      1104
-    ]
+    "productId": [1009, 1010, 1054, 1104]
   }
 }

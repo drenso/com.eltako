@@ -3,16 +3,9 @@
     "en": "ESR64NP-IPM Impulse Switch"
   },
   "class": "socket",
-  "capabilities": [
-    "dim",
-    "onoff"
-  ],
-  "platforms": [
-    "local"
-  ],
-  "connectivity": [
-    "matter"
-  ],
+  "capabilities": ["dim", "onoff"],
+  "platforms": ["local"],
+  "connectivity": ["matter"],
   "images": {
     "small": "{{driverAssetsPath}}/images/small.png",
     "large": "{{driverAssetsPath}}/images/large.png",

@@ -3,16 +3,9 @@
     "en": "FTKB Wireless window/door contact"
   },
   "class": "sensor",
-  "capabilities": [
-    "alarm_battery",
-    "alarm_contact"
-  ],
-  "platforms": [
-    "local"
-  ],
-  "connectivity": [
-    "matter"
-  ],
+  "capabilities": ["alarm_battery", "alarm_contact"],
+  "platforms": ["local"],
+  "connectivity": ["matter"],
   "energy": {
     "batteries": ["CR2032"]
   },
@@ -25,11 +18,6 @@
     "deviceVendorId": 4932,
     "deviceProductName": "ELTAKO-FTKB",
     "vendorId": 4932,
-    "productId": [
-      1009,
-      1010,
-      1054,
-      1104
-    ]
+    "productId": [1009, 1010, 1054, 1104]
   }
 }
