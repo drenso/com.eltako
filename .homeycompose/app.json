@@ -1,7 +1,7 @@
 {
   "id": "com.eltako",
   "version": "1.0.0",
-  "compatibility": ">=12.5.0",
+  "compatibility": ">=12.11.0",
   "sdk": 3,
   "brandColor": "#0065B0",
   "runtime": "nodejs",
@@ -28,7 +28,7 @@
   },
   "author": {
     "name": "ELTAKO GmbH",
-    "email": "abe.haverkamp+eltako@homey.app"
+    "email": "homey-eltako@drenso.nl"
   },
   "contributors": {
     "developers": [
@@ -40,7 +40,8 @@
       }
     ]
   },
-  "source": "https://github.com/Doekse/eltako-homey",
-  "support": "mailto:abe.haverkamp+eltako@homey.app",
+  "homepage": "https://www.eltako.com/",
+  "source": "https://github.com/drenso/com.eltako",
+  "support": "mailto:homey-eltako@drenso.nl",
   "homeyCommunityTopicId": 151999
 }
